@@ -29,7 +29,13 @@
     bottom: 0;
     background: #FFE0B3;
     border-radius: 0px 0px 8px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
+}
+.button-cart .btn-text{
+    margin-right:5px;
 }
 .button-cart:hover{
     background-color: orange;
